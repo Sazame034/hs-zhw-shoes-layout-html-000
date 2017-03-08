@@ -24,4 +24,51 @@
 
 /* Posititoning Classes */
 
+#featured.shadow {
+  width: 74%;
+  margin: 0 1% 1% 0;
+  float: left;
+  height: auto;
+}
 
+#archive.shadow {
+  width: 24%;
+  margin: 0 0 1% 1%;
+  float: left;
+}
+
+#ladybug.shadow {
+  width: 32%;
+  margin: 1% 1% 1% 0;
+  float: left;
+}
+
+#skate.shadow {
+  width: 32%;
+  margin: 1%;
+  float: left;
+}
+
+#heels.shadow {
+  width: 32%;
+  margin: 1% 0 1% 1%;
+  float: left
+}
+
+#contact.border_right {
+  width: 32%;
+  margin: 1% 1% 1% 0;
+  float: left;
+}
+
+#links.border_right {
+  width: 32%;
+  margin: 1%auto;
+  float: left;
+}
+
+#follow {
+  width: 32%;
+  margin: 1% 0 1% 1%;
+  float: left;
+}
